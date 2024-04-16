@@ -1,0 +1,14 @@
+D:\Desktop\C#\bibliotecus\bibliotecus\bin\Debug\bibliotecus.exe.config
+D:\Desktop\C#\bibliotecus\bibliotecus\bin\Debug\bibliotecus.exe
+D:\Desktop\C#\bibliotecus\bibliotecus\bin\Debug\bibliotecus.pdb
+D:\Desktop\C#\bibliotecus\bibliotecus\obj\Debug\bibliotecus.csproj.AssemblyReference.cache
+D:\Desktop\C#\bibliotecus\bibliotecus\obj\Debug\bibliotecus.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\C#\bibliotecus\bibliotecus\obj\Debug\bibliotecus.Properties.Resources.resources
+D:\Desktop\C#\bibliotecus\bibliotecus\obj\Debug\bibliotecus.csproj.GenerateResource.cache
+D:\Desktop\C#\bibliotecus\bibliotecus\obj\Debug\bibliotecus.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\bibliotecus\bibliotecus\obj\Debug\bibliotecus.exe
+D:\Desktop\C#\bibliotecus\bibliotecus\obj\Debug\bibliotecus.pdb
+D:\Desktop\C#\bibliotecus\bibliotecus\obj\Debug\bibliotecus.Form1.resources
+D:\Desktop\C#\bibliotecus\bibliotecus\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Desktop\C#\bibliotecus\bibliotecus\bin\Debug\Bunifu.Licensing.dll
+D:\Desktop\C#\bibliotecus\bibliotecus\obj\Debug\bibliotecus.csproj.CopyComplete
